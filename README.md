@@ -77,6 +77,7 @@ cv2.waitKey(0)
 ### i) Read and display the image
 
 <br>
+
 ![image](https://github.com/roshiniRK/READ-AND-WRITE-IMAGE/assets/118956165/a0f0efb9-9975-4a82-8ed2-f877344b3750)
 
 
@@ -85,7 +86,9 @@ cv2.waitKey(0)
 ### ii)Write the image
 
 <br>
-![image](https://github.com/roshiniRK/READ-AND-WRITE-IMAGE/assets/118956165/ee6f6070-30a6-44c6-8ff7-9d8585650404)
+
+![image](https://github.com/roshiniRK/READ-AND-WRITE-IMAGE/assets/118956165/d12dbf9a-4b29-4a76-ab4d-529c57b188e0)
+
 
 
 <br>
@@ -93,17 +96,20 @@ cv2.waitKey(0)
 ### iii)Shape of the Image
 
 <br>
+
 ![image](https://github.com/roshiniRK/READ-AND-WRITE-IMAGE/assets/118956165/0e893a78-530e-4497-8f05-7ba3ca5bc6d8)
 
 <br>
 
 ### iv)Access rows and columns
 <br>
+
 ![image](https://github.com/roshiniRK/READ-AND-WRITE-IMAGE/assets/118956165/b0acf238-943e-4183-92f0-b54876e298ef)
 
 
 ### v)Cut and paste portion of image
 <br>
+
 ![image](https://github.com/roshiniRK/READ-AND-WRITE-IMAGE/assets/118956165/dd44b6bc-a972-49d9-b62b-6400a90d4f42)
 
 <br>
